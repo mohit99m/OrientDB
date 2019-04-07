@@ -8,7 +8,7 @@ add a new record, edit(modify/delete) a record, search a record of the table sel
 
 Software Required:
 
-    OrientDB (ver
+    OrientDB v.2.2.6
     
     Python 3.7
     
